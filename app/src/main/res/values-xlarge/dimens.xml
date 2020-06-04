@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<dimen name="card_view_margin">12dp</dimen>
+
+	<dimen name="small_text">18sp</dimen>
+	<dimen name="medium_text">22sp</dimen>
+	<dimen name="img_dimension">60dp</dimen>
+</resources>
